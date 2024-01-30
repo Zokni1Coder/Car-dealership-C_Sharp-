@@ -7,8 +7,9 @@
 ### Vehicle
 
 1. Licence plate
--String
--It cannot be modified outside the class
--Can't be null or empty string
--Rules: Hungarian old Licence plate (example: ABC-123)
--The last three number can't be "000"
+- String
+- It cannot be modified outside the class
+- Can't be null or empty string
+- Rules: Hungarian old Licence plate (example: ABC-123)
+- The last three number can't be "000"
+
