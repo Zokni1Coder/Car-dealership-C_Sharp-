@@ -1,10 +1,10 @@
 # Car-dealership-C-
 
-##This is one of my projects from the second semester of university.
+## This is one of my projects from the second semester of university.
 
-##Classes
+## Classes
 
-###Vehicle
+### Vehicle
 
 1. Licence plate
 -String
