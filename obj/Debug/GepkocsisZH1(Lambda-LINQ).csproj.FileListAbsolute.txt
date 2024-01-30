@@ -1,0 +1,14 @@
+D:\USB-re\Suli\Programozás\MP2\Szemeszter2All\GepkocsisZH1(Lambda-LINQ)\obj\Debug\GepkocsisZH1(Lambda-LINQ).csproj.AssemblyReference.cache
+D:\USB-re\Suli\Programozás\MP2\Szemeszter2All\GepkocsisZH1(Lambda-LINQ)\obj\Debug\GepkocsisZH1(Lambda-LINQ).csproj.CoreCompileInputs.cache
+D:\USB-re\Suli\Programozás\MP2\Szemeszter2All\GepkocsisZH1(Lambda-LINQ)\bin\Debug\GepkocsisZH1(Lambda-LINQ).exe.config
+D:\USB-re\Suli\Programozás\MP2\Szemeszter2All\GepkocsisZH1(Lambda-LINQ)\bin\Debug\GepkocsisZH1(Lambda-LINQ).exe
+D:\USB-re\Suli\Programozás\MP2\Szemeszter2All\GepkocsisZH1(Lambda-LINQ)\bin\Debug\GepkocsisZH1(Lambda-LINQ).pdb
+D:\USB-re\Suli\Programozás\MP2\Szemeszter2All\GepkocsisZH1(Lambda-LINQ)\obj\Debug\GepkocsisZH1(Lambda-LINQ).exe
+D:\USB-re\Suli\Programozás\MP2\Szemeszter2All\GepkocsisZH1(Lambda-LINQ)\obj\Debug\GepkocsisZH1(Lambda-LINQ).pdb
+C:\Users\erikk\Source\Repos\Car-dealership-C_Sharp-\bin\Debug\GepkocsisZH1(Lambda-LINQ).exe.config
+C:\Users\erikk\Source\Repos\Car-dealership-C_Sharp-\bin\Debug\GepkocsisZH1(Lambda-LINQ).exe
+C:\Users\erikk\Source\Repos\Car-dealership-C_Sharp-\bin\Debug\GepkocsisZH1(Lambda-LINQ).pdb
+C:\Users\erikk\Source\Repos\Car-dealership-C_Sharp-\obj\Debug\GepkocsisZH1(Lambda-LINQ).csproj.AssemblyReference.cache
+C:\Users\erikk\Source\Repos\Car-dealership-C_Sharp-\obj\Debug\GepkocsisZH1(Lambda-LINQ).csproj.CoreCompileInputs.cache
+C:\Users\erikk\Source\Repos\Car-dealership-C_Sharp-\obj\Debug\GepkocsisZH1(Lambda-LINQ).exe
+C:\Users\erikk\Source\Repos\Car-dealership-C_Sharp-\obj\Debug\GepkocsisZH1(Lambda-LINQ).pdb
