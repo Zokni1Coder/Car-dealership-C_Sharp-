@@ -6,7 +6,7 @@
 
 ### Vehicle class
 
-#### Fields
+#### Fields and Properties
 
 1. Licence plate
 - String
@@ -46,7 +46,7 @@
 
 #### Constructors
 
-1. Constructor with every datas(Licence plate, Cunstruction year, Original price, Condition)
+1. Constructor with every datas (Licence plate, Cunstruction year, Original price, Condition)
 
 2. Constructor with every datas, except the Condition. It will be automatically "Well kept" by invoking the previous constructor 
 
@@ -72,9 +72,9 @@
 
 ### Car class
 
-#### Fields
+#### This class will be the child class to the Vehicle class
 
-##### This class will be the child class to the Vehicle class
+#### Fields and Properties
 
 1. Passenger number
 - Integer
@@ -105,7 +105,7 @@
 
 #### Constructors
 
-1. Constructor with every datas(Licence plate, Cunstruction year, Original price, Condition, Passenger number, Air condition)
+1. Constructor with every datas (Licence plate, Cunstruction year, Original price, Condition, Passenger number, Air condition)
 
 2. Constructor with every datas, except the Condition and the Air condition. It will be automatically "Well kept" and "Digital" by invoking the previous constructor
 
@@ -129,5 +129,18 @@
 
 - Datas from the car will be outwritten
 
+### Dealer class
+
+#### Fields and Properties
+
+1. Container
+- List
+- Here are all the obtained Vehicles 
+
+2. Cars
+- List
+- Here are all Cars from the Container field
+
+3. Cheapest()
 
 
