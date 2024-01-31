@@ -6,7 +6,7 @@
 
 ### Vehicle
 
-####Fields
+#### Fields
 
 1. Licence plate
 - String
@@ -44,13 +44,13 @@
 - When the vehicle is a maximum two years old and its conditition is "Like a new", then the extra price is 2% of the original price. 
 - Late binding.
 
-####Constructors
+#### Constructors
 
 1. Constructor with every datas(Licence plate, Cunstruction year, Original price, Condition).
 
 2. constructor with every datas, except the Condition. It will be automatically "Well kept" by invoking the previous constructor. 
 
-####Methods
+#### Methods
 
 1. PurchasePrice()
 - The result is integer
