@@ -8,11 +8,11 @@
 
 #### Fields and Properties
 
-1. Licence plate
+1. License plate
 - String
 - It cannot be modified outside the class
 - Can't be null or empty string
-- Rules: Hungarian old Licence plate (example: ABC-123)
+- Rules: Hungarian old License plate (example: ABC-123)
 - The last three number can't be "000"
 
 2. Construction Year
@@ -46,7 +46,7 @@
 
 #### Constructors
 
-1. Constructor with every datas (Licence plate, Cunstruction year, Original price, Condition)
+1. Constructor with every datas (License plate, Cunstruction year, Original price, Condition)
 
 2. Constructor with every datas, except the Condition. It will be automatically "Well kept" by invoking the previous constructor 
 
@@ -68,7 +68,7 @@
 - Datas from the vehicle will be outwritten
 
 3. Equals() Overriding
-- Two vehicles are equal when they have the same Licence plate
+- Two vehicles are equal when they have the same License plate
 
 ### Car class
 
@@ -105,7 +105,7 @@
 
 #### Constructors
 
-1. Constructor with every datas (Licence plate, Cunstruction year, Original price, Condition, Passenger number, Air condition)
+1. Constructor with every datas (License plate, Cunstruction year, Original price, Condition, Passenger number, Air condition)
 
 2. Constructor with every datas, except the Condition and the Air condition. It will be automatically "Well kept" and "Digital" by invoking the previous constructor
 
@@ -142,5 +142,20 @@
 - Here are all Cars from the Container field
 
 3. Cheapest()
+- Check if there is any car among the vehicles
+- It returns the cheapest car with "Well kept" condition 
+
+4. Indexer
+- It will find the car with the License plate
+
+#### Methods
+
+1. AddVehicle()
+- It receive a Vehicle object as a parameter and it will be added to the database
+- Check if the car is already in the database based on the License plate
+
+2. Filtering()
+- It receives a value of the Condition Enum and a Maximum price as parameters
+- It collects the cars that meet these parameters into a List. 
 
 
